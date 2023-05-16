@@ -7,7 +7,7 @@
 #### I'm a Psychologyst with a heart that codes✨
 
 - 🔭 I’m currently working on a fabulous project of my own that mixes both of my passions, psychology and technology
-- 🌱 I’m currently learning React, Nodejs and Javascript
+- 🌱 I’m currently learning Vue, Python and Django
 - 📫 How to reach me: https://www.linkedin.com/in/tgarciag/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love Ghibli movies
