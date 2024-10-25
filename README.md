@@ -14,10 +14,15 @@
 
 ## Github Stats
 
-
 [![Tatiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=DraCaligari&show_icons=true&count_private=true&theme=cobalt&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraCaligari&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+## GitLab Activity
+
+![Tatiana's GitLab stats](https://imgur.com/a9TWoHC)
+
+## Tools
 
 <div align="center">
 	<code><img width="42" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
