@@ -22,6 +22,8 @@
 
 ![Tatiana's GitHub stats](https://i.imgur.com/a9TWoHC.png)
 
+<small>These stats belong to a private repository</small>
+
 ## Tools
 
 <div align="center">
