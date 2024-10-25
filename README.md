@@ -20,7 +20,7 @@
 
 ## GitLab Activity
 
-![Tatiana's GitLab stats](https://imgur.com/a9TWoHC)
+![Tatiana's GitHub stats](https://i.imgur.com/a9TWoHC.png)
 
 ## Tools
 
