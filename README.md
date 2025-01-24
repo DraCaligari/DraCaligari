@@ -20,7 +20,7 @@
 
 ## GitLab Activity
 
-![Tatiana's GitHub stats](https://i.imgur.com/a9TWoHC.png)
+![Tatiana's GitHub stats](https://i.imgur.com/3WxyfHS.png)
 
 <small>*These stats belong to a private repository</small>
 
