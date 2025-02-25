@@ -27,7 +27,7 @@
 ## Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=anaconda,angular,apple,aws,bootstrap,cs,cloudflare,css,django,docker,dotnet,express,figma,firebase,gcp,git,github,gitlab,heroku,html,htmx,idea,ai,js,jenkins,jest,jquery,less,linux,mongodb,mysql,netlify,nginx,nodejs,notion,npm,nuxtjs,obsidian,ps,pinia,postgres,postman,powershell,pycharm,py,react,regex,sass,sqlite,sublime,selenium,swift,tailwind,ts,ubuntu,vim,visualstudio,vite,vitest,vscode,vue,webstorm,wordpress,xd,yarn" />
   </a>
 </p>
