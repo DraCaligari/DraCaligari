@@ -68,3 +68,9 @@
 	<code><img width="42" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></code>
 	<code><img width="42" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,angular,appleaws,bootstrap,cs,cloudflare,css,django,docker,dotnet,express,figma,firebase,gcp,git,github,gitlab,heroku,html,htmx,idea,ai,js,jenkins,jest,jquery,less,linux,mongodb,mysql,netlify,nginx,nodejs,notion,npm,nuxtjs,obsidian,ps,pinia,postgres,postman,powershell,pycharm,py,react,regex,sass,sqlite,sublime,selenium,swift,tailwind,ts,ubuntu,vim,visualstudio,vite,vitest,vscode,vue,webstorm,wordpress,xd,yarn" />
+  </a>
+</p>
